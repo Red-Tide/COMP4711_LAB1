@@ -1,2 +1,4 @@
-# COMP4711_LAB1
+SillyStudents
+===============
+
 Lab1 public git repo
